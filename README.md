@@ -3,7 +3,7 @@ Amstrad joystick and controller focused firmware for the 9-Pin Joystick to USB A
 
 This firmware for the adapter allows you to connect Amstrad CPC/Plus/GX4000 compatible joysticks and controllers to your computer via USB with full support for all directional inputs and both fire button 1 and 2.
 
-The adapter is detected as a USB HID joystick and is compatible with the following;
+The adapter is detected as a USB HID joystick and is compatible with the following:
 * Windows
 * MacOS
 * Most Linux Distros
